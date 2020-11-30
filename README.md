@@ -185,7 +185,7 @@ Serwis umożliwia w prosty sposób rozszerzanie możliwości całej aplikacji. D
 
 Rejstracja użytkownika polega na wypełnieniu formularza składającego się z adresu e-mail oraz hasła. Zatwierdzenie tworzy nowego użytkownika w bazie danych.<br><br>
 
-![Alt text](https://raw.githubusercontent.com/PatrykMarciniszyn/NodeGCloudP/master/RedMeObrazy\Rejstracja.png?raw=true "Rejstrtacja")
+![Alt text](RedMeObrazy/Rejstracja.png?raw=true "Rejstrtacja")
   
 
 
@@ -193,13 +193,13 @@ Rejstracja użytkownika polega na wypełnieniu formularza składającego się z 
 
 Logowanie użytkownika polega na wypełnieniu formularza składającego się z adresu e-mail oraz hasła.<br><br>
 
-![Alt text](https://raw.githubusercontent.com/PatrykMarciniszyn/NodeGCloudP/master/RedMeObrazy\Login.png?raw=true "Logowanie")
+![Alt text](RedMeObrazy/Login.png?raw=true "Logowanie")
 
 # Dodawanie Produktu/Edycja
 
 Dodawanie produktów polega na wypełnieiu formularza: <br><br>
 
-![Alt text](https://raw.githubusercontent.com/PatrykMarciniszyn/NodeGCloudP/master/RedMeObrazy\Dodaj.png?raw=true "Dodawanie")
+![Alt text](RedMeObrazy/Dodaj.png?raw=true "Dodawanie")
 
 Jeśli wszystkie podane dane są prawidłowe produkt zostaje dodany do bazy danych.<br>
 Edycja produktu wygląda prawie identycznie. Jedyną różnica to formularz, który jest wypełniony aktualnymi danymi produktu.
@@ -208,19 +208,19 @@ Edycja produktu wygląda prawie identycznie. Jedyną różnica to formularz, kt�
 
 Jest to strona startowa. Urzytkownik może z przeglądać listę dostępnch produktów.
 
-![Alt text](https://raw.githubusercontent.com/PatrykMarciniszyn/NodeGCloudP/master/RedMeObrazy\Produkty.png?raw=true "Produkty")
+![Alt text](RedMeObrazy/Produkty.png?raw=true "Produkty")
 
 # Wyświetlenie Produktu
 
 Wyświetlenie szczegółów danego produktu.
 
-![Alt text](https://raw.githubusercontent.com/PatrykMarciniszyn/NodeGCloudP/master/RedMeObrazy\Produkt.png?raw=true "Produkt")
+![Alt text](RedMeObrazy/Produkt.png?raw=true "Produkt")
 
 
 # Usunięcie Produktu
 
 Przyciśnięcie przycisku "Delete" powoduje usunięcie produktu.
 
-![Alt text](https://raw.githubusercontent.com/PatrykMarciniszyn/NodeGCloudP/master/RedMeObrazy\Edycja.png?raw=true "Usuń")
+![Alt text](RedMeObrazy/Edycja.png?raw=true "Usuń")
 
 
